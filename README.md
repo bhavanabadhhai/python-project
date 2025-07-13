@@ -1,1 +1,2 @@
-# python-project
+#  cafe management python-project
+Built a user-friendly Cafe Management System using Python, Streamlit, and MySQL, applying Object-Oriented Programming (OOPM) concepts for clean code structure. The app allows users to place orders, view bills, manage customer records, and give feedback. Implemented data handling using SQL queries and Python logic to store, retrieve, and display dynamic content through an interactive Streamlit interface. Strengthened practical skills in building full-stack Python applications.
